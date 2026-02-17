@@ -1,8 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=header&text=Arjun%20Kuttikkat&fontSize=42&fontColor=ffffff&fontAlignY=65&desc=AI%20Workflow%20Infrastructure%20%E2%80%A2%20Execution%20Engines%20%E2%80%A2%20Applied%20Systems&descSize=14&descAlignY=85&descColor=c4b5fd" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:a855f7,100:ec4899&height=130&section=header&text=Arjun%20Kuttikkat&fontSize=46&fontColor=ffffff&fontAlignY=62&desc=AI%20Workflow%20Infrastructure%20%E2%80%A2%20Execution%20Engines%20%E2%80%A2%20Applied%20Systems&descSize=14&descAlignY=82&descColor=e2e8f0&animation=twinkling" width="100%"/>
 
 </div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=Building+AI+Workflow+Infrastructure+%F0%9F%94%A5;Execution+engines+over+prompt+dumps+%E2%9A%99%EF%B8%8F;Isolation+by+design+%F0%9F%94%92;Monetization+rails+built+into+the+core+%F0%9F%92%B0;Shipping+in+production+%F0%9F%9A%80" alt="Typing SVG" />
+
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -31,6 +39,8 @@
 ### 🟣 [Edgaze](https://edgaze.ai) — AI Workflow Infrastructure
 
 > Building the infrastructure layer for AI-native creators. A production platform for creating, publishing, running, and monetizing AI workflows.
+
+`57k+ LOC` &nbsp;·&nbsp; `Multi-tenant RLS architecture` &nbsp;·&nbsp; `Production deployment pipeline` &nbsp;·&nbsp; `Streaming execution engine`
 
 | System | Description |
 |--------|-------------|
@@ -168,9 +178,19 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arjun-kuttikkat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&ring_color=7C3AED)](https://github.com/arjun-kuttikkat)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&width=435&lines=Commits+%E2%86%92+shipped+features%2C+not+just+code." alt="activity tagline" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=arjun-kuttikkat&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED)](https://github.com/arjun-kuttikkat)
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=arjun-kuttikkat&hide_border=true&background=0d1117&ring=22d3ee&fire=f472b6&currStreakLabel=22d3ee&sideLabels=f472b6&dates=6b7280&sideNums=ffffff&currStreakNum=ffffff&stroke=1e1e2e)](https://github.com/arjun-kuttikkat)
+
+</div>
+
+<div align="center">
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-kuttikkat&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&langs_count=6)](https://github.com/arjun-kuttikkat)
 
 </div>
 
@@ -180,12 +200,20 @@
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3500&pause=1200&color=22D3EE&center=true&vCenter=true&width=500&lines=Open+to+infrastructure+collabs+%26+technical+conversations." alt="contact tagline" />
+
+</div>
+
+<div align="center">
+
 [![Email](https://img.shields.io/badge/Email-contact%40arjunkuttikkat.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@arjunkuttikkat.com)&nbsp;
 [![Website](https://img.shields.io/badge/Website-arjunkuttikkat.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://arjunkuttikkat.com)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arjun--kuttikkat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arjun-kuttikkat)
 
 </div>
 
+<br/>
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:a855f7,100:ec4899&height=80&section=footer&animation=twinkling" width="100%"/>
 </div>
