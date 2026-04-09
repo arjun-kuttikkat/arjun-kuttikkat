@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=Building+AI+Workflow+Infrastructure+%F0%9F%94%A5;Execution+engines+over+prompt+dumps+%E2%9A%99%EF%B8%8F;Isolation+by+design+%F0%9F%94%92;Monetization+rails+built+into+the+core+%F0%9F%92%B0;Shipping+in+production+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=Building+AI+Workflow+Infrastructure+%F0%9F%94%A5;Execution+engines+over+prompt+dumps+%E2%9A%99%EF%B8%8F;Isolation+by+design+%F0%9F%94%92;Monetization+rails+built+into+the+core+%F0%9F%92%B0;Trust+layers+for+physical+commerce+%F0%9F%94%97;Shipping+in+production+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -15,6 +15,7 @@
 <div align="center">
 
 [![Edgaze](https://img.shields.io/badge/EDGAZE-AI%20Workflow%20Infrastructure-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://edgaze.ai)&nbsp;
+[![Aura](https://img.shields.io/badge/AURA-Solana%20Trust%20Layer-9945FF?style=for-the-badge&logo=solana&logoColor=white)](#)&nbsp;
 [![HealthSignal](https://img.shields.io/badge/HEALTHSIGNAL-Clinical%20Monitoring-0EA5E9?style=for-the-badge&logo=heart&logoColor=white)](#)&nbsp;
 [![AutoResolve](https://img.shields.io/badge/AUTORESOLVE-AI%20Support%20Agent-22C55E?style=for-the-badge&logo=probot&logoColor=white)](#)
 
@@ -40,7 +41,7 @@
 
 > Building the infrastructure layer for AI-native creators. A production platform for creating, publishing, running, and monetizing AI workflows.
 
-`57k+ LOC` &nbsp;·&nbsp; `Multi-tenant RLS architecture` &nbsp;·&nbsp; `Production deployment pipeline` &nbsp;·&nbsp; `Streaming execution engine`
+`130k+ LOC` &nbsp;·&nbsp; `Multi-tenant RLS architecture` &nbsp;·&nbsp; `Production deployment pipeline` &nbsp;·&nbsp; `Streaming execution engine`
 
 | System | Description |
 |--------|-------------|
@@ -49,6 +50,7 @@
 | 🔷 Streaming | Real-time run pipeline with streaming output |
 | 🔷 Multi-Tenancy | Supabase backend with Row-Level Security isolation |
 | 🔷 Distribution | Canonical workflow URLs + versioned releases |
+| 🔷 Monetization | Stripe Connect payouts + creator revenue share |
 | 🔷 Deployment | Production-grade deployment architecture |
 
 **Live →** [edgaze.ai](https://edgaze.ai)
@@ -63,7 +65,21 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+
+### 🟪 Aura
+**Solana-Native Trust Layer for Physical Commerce**
+
+- Physical-to-digital marketplace
+- On-chain NFT provenance
+- Escrow-backed settlement
+- NFC-based P2P verification
+- Android-native client
+
+`Solana` · `Anchor` · `Kotlin`
+
+</td>
+<td width="33%" valign="top">
 
 ### 🔵 HealthSignal
 **Post-discharge Clinical Monitoring**
@@ -71,9 +87,12 @@
 - Risk flagging pipelines
 - Patient state modeling
 - Healthcare-oriented data flows
+- Structured clinical event streams
+
+`Python` · `FastAPI` · `Postgres`
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🟢 AutoResolve
 **Autonomous AI Email Support Agent**
@@ -81,6 +100,9 @@
 - Structured intent parsing
 - Decision-logic routing
 - Automated response workflows
+- Gmail-native execution
+
+`TypeScript` · `LLM Agents` · `Gmail API`
 
 </td>
 </tr>
@@ -151,8 +173,8 @@
 ![Supabase](https://img.shields.io/badge/Supabase-Auth%20%7C%20Postgres%20%7C%20RLS-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js%2020+-Runtime-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-On--Chain%20Settlement-9945FF?style=flat-square&logo=solana&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-Hosting-000000?style=flat-square&logo=vercel&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 </td>
 </tr>
@@ -178,21 +200,58 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&width=435&lines=Commits+%E2%86%92+shipped+features%2C+not+just+code." alt="activity tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&width=500&lines=Commits+%E2%86%92+shipped+features%2C+not+just+code." alt="activity tagline" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=arjun-kuttikkat&hide_border=true&background=0d1117&ring=22d3ee&fire=f472b6&currStreakLabel=22d3ee&sideLabels=f472b6&dates=6b7280&sideNums=ffffff&currStreakNum=ffffff&stroke=1e1e2e)](https://github.com/arjun-kuttikkat)
+<a href="https://github.com/arjun-kuttikkat">
+  <img src="https://streak-stats.demolab.com?user=arjun-kuttikkat&hide_border=true&background=0d1117&ring=22d3ee&fire=f472b6&currStreakLabel=22d3ee&sideLabels=f472b6&dates=6b7280&sideNums=ffffff&currStreakNum=ffffff&stroke=1e1e2e" alt="GitHub Streak" />
+</a>
 
 </div>
 
 <div align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-kuttikkat&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&langs_count=6)](https://github.com/arjun-kuttikkat)
+<a href="https://github.com/arjun-kuttikkat">
+  <img src="https://ghchart.rshah.org/a855f7/arjun-kuttikkat" alt="Contribution Graph" width="95%" />
+</a>
 
 </div>
+
+---
+
+### 🧬 Most Used
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+**Tooling**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Anchor](https://img.shields.io/badge/Anchor-9945FF?style=flat-square&logo=solana&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
