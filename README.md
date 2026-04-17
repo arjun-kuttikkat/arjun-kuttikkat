@@ -41,7 +41,7 @@
 
 > Building the infrastructure layer for AI-native creators. A production platform for creating, publishing, running, and monetizing AI workflows.
 
-`130k+ LOC` &nbsp;·&nbsp; `Multi-tenant RLS architecture` &nbsp;·&nbsp; `Production deployment pipeline` &nbsp;·&nbsp; `Streaming execution engine`
+`200k+ LOC` &nbsp;·&nbsp; `Multi-tenant RLS architecture` &nbsp;·&nbsp; `Production deployment pipeline` &nbsp;·&nbsp; `Streaming execution engine`
 
 | System | Description |
 |--------|-------------|
