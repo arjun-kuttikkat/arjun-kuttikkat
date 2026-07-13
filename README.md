@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Building+Edgaze+%E2%80%94+an+AI+workflow+platform.;Focused+on+runtime%2C+distribution+and+creator+tools.;Shipping+execution+systems+instead+of+prompt+dumps." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Building+Edgaze+%E2%80%94+a+runtime+%2B+marketplace+for+AI+workflows.;Self-hosted+Temporal+engine.+Per-run+billing.+Creator+payouts.;540K+lines+shipped+solo+%E2%80%94+from+zero+code+in+Sept+2025." alt="Typing SVG" />
 
 </div>
 
@@ -26,7 +26,7 @@
 
 ![University](https://img.shields.io/badge/Robotics%20%26%20AI-University%20of%20Birmingham%20Dubai-1e1e2e?style=flat-square&labelColor=1e1e2e&color=7C3AED)
 &nbsp;
-![Focus](https://img.shields.io/badge/Focus-Workflow%20Infrastructure-1e1e2e?style=flat-square&labelColor=1e1e2e&color=0EA5E9)
+![Focus](https://img.shields.io/badge/Focus-Durable%20Execution%20Infrastructure-1e1e2e?style=flat-square&labelColor=1e1e2e&color=0EA5E9)
 &nbsp;
 ![Current](https://img.shields.io/badge/Currently-Building%20Edgaze-1e1e2e?style=flat-square&labelColor=1e1e2e&color=22C55E)
 
@@ -42,25 +42,26 @@
 
 ### <a href="https://edgaze.ai">Edgaze</a>
 
-AI workflow platform for creating, publishing, running and monetizing executable workflows.
+A runtime and marketplace for AI workflows. Creators publish executable workflows as paid products — buyers run them per-use with hosted execution. No API keys, no local setup.
 
-Focused on the infrastructure around AI-native products:
-- visual workflow composition
-- execution runtime systems
-- streaming outputs
-- public workflow distribution
-- creator monetization
+Built and operated solo, end to end:
+- durable execution engine on self-hosted Temporal (Azure)
+- per-run billing with hold → debit → settle ledger logic
+- event-sourced run log as the single source of truth
+- live output streaming via Redis Streams → SSE
+- Stripe Connect payouts — creators keep 80% of their margin
+- public developer REST API with spend-capped keys and signed webhooks
 
 <br/>
 
 | System | Description |
 | --- | --- |
-| Workflow Builder | Node-based visual workflow editor |
-| Runtime Engine | Structured execution pipeline for AI workflows |
-| Streaming Layer | Real-time output streaming during execution |
-| Publishing System | Public workflow pages and shareable products |
-| Monetization | Stripe Connect payouts and paid workflows |
-| Multi-Tenancy | Supabase Auth, Postgres and RLS-backed isolation |
+| Execution Engine | Durable Temporal workflows — multi-day runs, replay-tested in CI |
+| Billing Ledger | Per-run pricing: compute + creator margin, failed runs free |
+| Streaming Layer | Append-only event log fanned out live over Redis Streams / SSE |
+| Workflow Builder | Node-based visual canvas with typed ports and versioned publishing |
+| Marketplace | Public product pages, canonical Edgaze codes, remix composition |
+| Developer API | `POST /api/v1/runs` — same execution boundary as the web UI |
 
 <br/>
 
@@ -96,15 +97,15 @@ Focused on the infrastructure around AI-native products:
 
 ### Backend & Infrastructure
 
-![Node.js](https://img.shields.io/badge/Node.js-Runtime-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Temporal](https://img.shields.io/badge/Temporal-Durable%20Execution-000000?style=flat-square&logo=temporal&logoColor=white)
+
+![Azure](https://img.shields.io/badge/Azure-Container%20Apps%20%7C%20Postgres%20%7C%20Redis-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 ![Supabase](https://img.shields.io/badge/Supabase-Auth%20%7C%20Postgres%20%7C%20RLS-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-Connect%20Payouts%20%7C%20Billing-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
-![Stripe](https://img.shields.io/badge/Stripe-Payments-635BFF?style=flat-square&logo=stripe&logoColor=white)
-
-![Vercel](https://img.shields.io/badge/Vercel-Deployment-000000?style=flat-square&logo=vercel&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-App%20Deployment-000000?style=flat-square&logo=vercel&logoColor=white)
 
 </td>
 </tr>
@@ -121,17 +122,17 @@ Focused on the infrastructure around AI-native products:
 
 ## Edgaze
 
-AI workflow execution and monetization platform.
+Runtime + marketplace for AI workflows. 540K+ lines, 842+ tests, replay-tested Temporal CI.
 
-- visual workflow builder
-- execution runtime
-- workflow publishing
-- streaming outputs
-- creator payouts
+- durable execution engine
+- event-sourced billing ledger
+- live run streaming (SSE)
+- marketplace + remix system
+- developer REST API
 
-`Next.js`
+`Temporal`
 `TypeScript`
-`Supabase`
+`Azure`
 
 </td>
 
@@ -200,7 +201,7 @@ Clinical monitoring and patient risk tracking system built during a healthcare-f
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3200&pause=1200&color=22D3EE&center=true&vCenter=true&width=700&lines=Interested+in+AI+workflow+systems%2C+runtime+infrastructure+and+creator+tools." alt="Contact tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3200&pause=1200&color=22D3EE&center=true&vCenter=true&width=700&lines=Interested+in+durable+execution%2C+AI+workflow+systems+and+creator+infrastructure." alt="Contact tagline" />
 
 </div>
 
