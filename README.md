@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Building+Edgaze+%E2%80%94+a+runtime+%2B+marketplace+for+AI+workflows.;Self-hosted+Temporal+engine.+Per-run+billing.+Creator+payouts.;540K+lines+shipped+solo+%E2%80%94+from+zero+code+in+Sept+2025." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Building+Edgaze+%E2%80%94+a+runtime+%2B+marketplace+for+AI+workflows.;Self-hosted+Temporal+engine.+Per-run+billing.+Creator+payouts.;Built+solo+%E2%80%94+from+zero+code+in+Sept+2025." alt="Typing SVG" />
 
 </div>
 
@@ -122,7 +122,7 @@ Built and operated solo, end to end:
 
 ## Edgaze
 
-Runtime + marketplace for AI workflows. 540K+ lines, 842+ tests, replay-tested Temporal CI.
+Runtime + marketplace for AI workflows. 842+ tests, replay-tested Temporal CI.
 
 - durable execution engine
 - event-sourced billing ledger
