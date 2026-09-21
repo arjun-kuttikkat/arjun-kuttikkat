@@ -1,43 +1,33 @@
 # Arjun Kuttikkat
 
-Founder of [Edgaze](https://edgaze.ai), building infrastructure for running and distributing AI workflows.
+Solo founder of [Edgaze](https://edgaze.ai). Robotics & AI student at the University of Birmingham Dubai.
 
-I work mainly on software infrastructure, developer tools, and AI systems.
-
-Most of my work starts with some version of: *“this should probably exist.”*
-
-> More about what I’m building, learning, and thinking about: [**arjunkuttikkat.com**](https://arjunkuttikkat.com)
+I build software infrastructure, developer tools, and AI systems.
 
 ## Edgaze
 
-[Edgaze](https://edgaze.ai) is a distribution and execution layer for AI workflows — allowing workflows to be published once and run by both people and AI agents through a hosted runtime, marketplace, API, and MCP.
+Edgaze lets creators publish an AI workflow once and have it run by people or AI agents, through a hosted runtime, marketplace, REST API, and MCP server.
 
-I founded and built the platform end-to-end, including the workflow runtime, developer API, marketplace, billing infrastructure, integrations, observability, and deployment systems.
+I built the platform myself: the workflow runtime, developer API, marketplace, billing, integrations, observability, and deployment.
 
-The core platform is private, but several parts of the ecosystem are public:
+The core platform is private. These parts are public:
 
-- 🤖 [**edgaze-ai/mcp**](https://github.com/edgaze-ai/mcp) — MCP integration for agents to discover, inspect, and run workflows on Edgaze.
-- 🔌 [**edgaze-ai/edgaze-openapi**](https://github.com/edgaze-ai/edgaze-openapi) — OpenAPI 3.1 specification for the Edgaze REST API, automatically synchronized with production.
-- 🎬 [**edgaze-ai/edgaze-recordings**](https://github.com/edgaze-ai/edgaze-recordings) — Motion and rendering system used to build product clips for Edgaze.
+- [**edgaze-ai/mcp**](https://github.com/edgaze-ai/mcp): lets agents discover, inspect, and run Edgaze workflows.
+- [**edgaze-ai/edgaze-openapi**](https://github.com/edgaze-ai/edgaze-openapi): OpenAPI 3.1 spec for the Edgaze REST API, kept in sync with production.
+- [**edgaze-ai/edgaze-recordings**](https://github.com/edgaze-ai/edgaze-recordings): the motion and rendering system behind Edgaze product clips.
 
-[Website](https://edgaze.ai) · [GitHub](https://github.com/edgaze-ai) · [Developer Docs](https://www.edgaze.ai/docs)
+[Website](https://edgaze.ai) · [Docs](https://www.edgaze.ai/docs) · [GitHub org](https://github.com/edgaze-ai)
 
-## Projects
+## Other projects
 
-- 🧭 [**Compass**](https://github.com/arjun-kuttikkat/compass) — Browser-based dependency explorer for understanding unfamiliar codebases.
-- ✨ [**Aura**](https://github.com/arjun-kuttikkat/Aura) — Solana-native peer-to-peer commerce with NFC verification and on-chain escrow.
-- ⚙️ [**AutoResolve**](https://github.com/arjun-kuttikkat/AutoResolve)
-- 🌐 [**arjunkuttikkat.com**](https://github.com/arjun-kuttikkat/arjunkuttikkat.com) — Source code for my personal website.
+- [**Compass**](https://github.com/arjun-kuttikkat/compass): maps a codebase's files, imports, and change impact in the browser, without uploading source code.
+- [**Aura**](https://github.com/arjun-kuttikkat/Aura): Android app for in-person peer-to-peer trades on Solana, using NFC verification and on-chain escrow.
+- [**AutoResolve**](https://github.com/arjun-kuttikkat/AutoResolve): customer-side email agent that tracks a support case, sends guarded follow-ups, and hands off to a human when a reply needs judgment.
+- [**arjunkuttikkat.com**](https://github.com/arjun-kuttikkat/arjunkuttikkat.com): source for my personal site.
 
-## A few things about me
+## About me
 
-- I like infrastructure more than interfaces.
-- I prefer systems that keep working after I close my laptop.
-- I have a habit of turning small ideas into unnecessarily large engineering projects.
-- If something can be automated, I will probably try.
+- I prefer infrastructure to interfaces, and systems that keep running after I close my laptop.
+- I tend to turn small ideas into large engineering projects.
 
-For the longer version — projects, notes, experiments, and everything else:
-
-### → [arjunkuttikkat.com](https://arjunkuttikkat.com)
-
-[LinkedIn](https://linkedin.com/in/arjun-kuttikkat) · [Edgaze](https://edgaze.ai)
+More on what I'm building and learning: [arjunkuttikkat.com](https://arjunkuttikkat.com) · [LinkedIn](https://linkedin.com/in/arjun-kuttikkat)
