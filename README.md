@@ -18,6 +18,7 @@ I designed and built the platform independently, including the workflow executio
 - [**Workflow Marketplace**](https://www.edgaze.ai/marketplace) — Published workflows and runnable products.
 - [**Documentation**](https://www.edgaze.ai/docs) — Technical guides and platform documentation.
 - [**Developer API**](https://www.edgaze.ai/docs/api) — REST API reference and developer integration.
+- [**Edgaze Status**](https://status.edgaze.ai) — Live infrastructure health, service monitoring, uptime history, and incident reports.
 - [**Edgaze Blog**](https://www.edgaze.ai/blogs) — Engineering insights, product updates, and technical articles.
 
 **Open-source components:**
@@ -27,6 +28,8 @@ I designed and built the platform independently, including the workflow executio
 - [**edgaze-ai/edgaze-recordings**](https://github.com/edgaze-ai/edgaze-recordings) — Motion and rendering infrastructure for product videos.
 
 *The core platform is proprietary; the application, developer interfaces, and documentation are publicly accessible.*
+
+**Edgaze MCP is available in the [GitHub MCP Registry](https://github.com/mcp/ai.edgaze/edgaze).**
 
 ## Other projects
 
@@ -41,3 +44,4 @@ I designed and built the platform independently, including the workflow executio
 - I tend to turn small ideas into large engineering projects.
 
 More on what I'm building and learning: [arjunkuttikkat.com](https://arjunkuttikkat.com) · [LinkedIn](https://linkedin.com/in/arjun-kuttikkat)
+
