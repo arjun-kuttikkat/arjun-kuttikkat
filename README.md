@@ -18,7 +18,7 @@ I designed and built the platform independently, including the workflow executio
 - [**Workflow Marketplace**](https://www.edgaze.ai/marketplace) — Published workflows and runnable products.
 - [**Documentation**](https://www.edgaze.ai/docs) — Technical guides and platform documentation.
 - [**Developer API**](https://www.edgaze.ai/docs/api) — REST API reference and developer integration.
-- [**Edgaze Blog**](https://www.edgaze.ai/blog) — Engineering insights, product updates, and technical articles.
+- [**Edgaze Blog**](https://www.edgaze.ai/blogs) — Engineering insights, product updates, and technical articles.
 
 **Open-source components:**
 
