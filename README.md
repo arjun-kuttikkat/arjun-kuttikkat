@@ -35,7 +35,7 @@ I designed and built the platform independently, including the workflow executio
 
 - [**Compass**](https://github.com/arjun-kuttikkat/compass) — Maps a codebase's files, imports, and change impact in the browser, without uploading source code.
 - [**Aura**](https://github.com/arjun-kuttikkat/Aura) — Android app for in-person peer-to-peer trades on Solana, using NFC verification and on-chain escrow.
-- [**AutoResolve**](https://github.com/arjun-kuttikkat/AutoResolve) — Customer-side email agent that tracks a support case, sends guarded follow-ups, and hands off to a human when a reply needs judgment.
+- [**AutoResolve**](https://github.com/arjun-kuttikkat/AutoResolve) — Customer-side email agent that tracks a support case, sends guarded follow-ups, and hands off to a human when a reply needs judgment. (3rd place, AI Agents Innovation Hackathon, Heriot-Watt University)
 - [**arjunkuttikkat.com**](https://github.com/arjun-kuttikkat/arjunkuttikkat.com) — Source for my personal site.
 
 ## About me
