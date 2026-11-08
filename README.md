@@ -24,6 +24,7 @@ I designed and built the platform independently, including the workflow executio
 **Open-source components:**
 
 - [**edgaze-ai/mcp**](https://github.com/edgaze-ai/mcp) — MCP integration for agent-driven workflow discovery and execution.
+- [**edgaze-ai/edgaze-typescript**](https://github.com/edgaze-ai/edgaze-typescript) — Official TypeScript/JavaScript SDK for the Edgaze API.
 - [**edgaze-ai/edgaze-openapi**](https://github.com/edgaze-ai/edgaze-openapi) — Production-synced OpenAPI 3.1 specification.
 - [**edgaze-ai/edgaze-recordings**](https://github.com/edgaze-ai/edgaze-recordings) — Motion and rendering infrastructure for product videos.
 
@@ -44,4 +45,3 @@ I designed and built the platform independently, including the workflow executio
 - I tend to turn small ideas into large engineering projects.
 
 More on what I'm building and learning: [arjunkuttikkat.com](https://arjunkuttikkat.com) · [LinkedIn](https://linkedin.com/in/arjun-kuttikkat)
-
